@@ -19,8 +19,10 @@ Prerequisites to run C Programs in IDE
 3. https://www.mycompiler.io/new/c
 
 # Atom Windows Commands
+```
 Microsoft Windows [Version 10.0.19043.1415]
 (c) Microsoft Corporation. All rights reserved.
-C:\Users\Atul Kamble>cd AppData\Local\atom >.
-C:\Users\Atul Kamble\AppData\Local\atom>atom --squirrel-updated >.
-C:\Users\Atul Kamble\AppData\Local\atom> >.
+C:\Users\Atul Kamble>cd AppData\Local\atom 
+C:\Users\Atul Kamble\AppData\Local\atom>atom --squirrel-updated 
+C:\Users\Atul Kamble\AppData\Local\atom> 
+```
