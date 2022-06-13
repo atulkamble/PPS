@@ -1,0 +1,9 @@
+Algorithm for converting decimal to binary
+
+step 1) start
+step 2) input decimal number
+step 3) divide decimal number by 2 until quotient part becomes zero
+step 4) note down remainders step by step for each process
+step 5) arrange remainder in reverse order (bottom to top approach)
+step 6) display the binary number
+step 7) stop

@@ -1,0 +1,7 @@
+Write algorithm and draw flowchart to calculate roots of a quadratic equation
+
+1) START
+2) GET INPUT VALUE OF A,B &C
+3) CALCULATE VALUE OF X BY FORMULA x=(-b±√(b^2-4ac))/2a
+4) DISPLAY THE ROOTS OF QUADRATIC EQUATION
+5) STOP

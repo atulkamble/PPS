@@ -1,0 +1,6 @@
+main( ) 
+{ 
+ int i = 10, j = 20 ; 
+ if ( i = 5 ) && if ( j = 10 ) 
+ printf ( "\nHave a nice day" ) ; 
+} 

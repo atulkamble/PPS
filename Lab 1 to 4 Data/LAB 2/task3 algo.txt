@@ -1,0 +1,18 @@
+Algorithm  for calculate roots of quadratic equation 
+
+Step 1) Start
+
+Step 2) Input a,b,c 
+
+Step 3) Declaring the Formula: x=(-b±√(b^2-4ac))/2a
+
+
+Step 4) Calculate the value of x1 & x2
+
+
+Step 5) Display x1 & x2
+
+
+Step 6) Stop
+
+

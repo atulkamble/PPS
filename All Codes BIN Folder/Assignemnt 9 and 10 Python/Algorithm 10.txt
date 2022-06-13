@@ -1,0 +1,7 @@
+ALGORITHM:
+
+Step 1: Take a string from the user and store it in a variable.
+Step 2: Initialise the two count variables to 0.
+Step 3: Use a for loop to traverse through the characters in the string and increment the first count variable each time a lowercase character is encountered and increment the second count variable each time a uppercase character is encountered.
+Step 4: Print the total count of both the variables.
+Step 5: Exit.

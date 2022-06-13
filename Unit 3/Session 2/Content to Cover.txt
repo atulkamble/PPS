@@ -1,0 +1,6 @@
+Simple_Interest.c
+Scan.c
+power.c
+Task1
+Task2
+Task3

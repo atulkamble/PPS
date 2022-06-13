@@ -1,0 +1,4 @@
+A) Write algorithm and draw a flowchart to log in to gmail account
+B) Write algorithm and draw flowchart to Calculate the volume and area of sphere using the formulas
+V=4* Pi*r3 /3 and A=4*pi*r2 where r is radius of square of the sphere.
+A) Write algorithm and draw flowchart to calculate roots of a quadratic equation.

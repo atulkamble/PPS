@@ -1,0 +1,30 @@
+Decimal No. : 10
+
+No.        Q       R
+10/2      5       0
+5/2        2      1
+2/2        1      0
+1/2        0      1
+
+
+
+Binary No. : 1010
+
+
+9%2     4   
+
+Algorithm to Convert Decimal to Binary
+1) Start
+2) Enter no. in decimal format
+3) Divide that no. by 2
+4) Calculate remainder and continue dividing Quotient by 2 until get quotient as 0
+6) Create number by organizing Remainders | bottom to top approach
+7) Display the binary number
+8) Stop
+
+
+
+ 
+
+
+

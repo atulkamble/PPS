@@ -1,0 +1,15 @@
+Task: Learning about Matrix
+
+
+1. Concept : Matrix, Rows & Columns etc. +N & -N of Matrix | Arrays, Multi D Array
+
+2. Go through Data Type used in C for: Matrix Multiplication
+
+3. Declare Matrix in C: 
+
+4. Matrix Discussion
+
+
+Tip: Submit the previous assignments within session itself if not submitted.
+
+
